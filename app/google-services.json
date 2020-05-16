@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144060025959",
+    "firebase_url": "https://rosoboronapp.firebaseio.com",
+    "project_id": "rosoboronapp",
+    "storage_bucket": "rosoboronapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144060025959:android:aee8d7c5660186d73458c2",
+        "android_client_info": {
+          "package_name": "edu.sharaga.students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144060025959-vhoicinkib0viq31jmeb68hn6d3vh244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sharaga.students",
+            "certificate_hash": "f13f83c12cd537e17ba407680a14cda46346ee2e"
+          }
+        },
+        {
+          "client_id": "144060025959-n6g2tknspk49o7q8kd3lajhj16j0clqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyWGGLPZHa4WCgucNVHFnJt4sFOlG-2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144060025959-n6g2tknspk49o7q8kd3lajhj16j0clqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
